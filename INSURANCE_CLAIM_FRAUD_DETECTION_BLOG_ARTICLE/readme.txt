@@ -1,0 +1,1 @@
+A blog/article on Insurance Claim Fraud Detection project. It contains two files one word and the second file is a pdf file.
